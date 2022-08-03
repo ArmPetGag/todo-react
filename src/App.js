@@ -13,7 +13,7 @@ function App() {
       completed: false,
     },
     {
-      text: 'Деплой!',
+      text: 'Проверка сборки!',
       completed: false,
     }
   ]);
